@@ -1,8 +1,4 @@
 # Anomaly Detection in Credit Card Fraud
-![images](https://github.com/user-attachments/assets/1ae685ce-54b8-4f93-ba28-0c5dffd37cf3)
-![images](https://github.com/user-attachments/assets/3fa61686-4150-4baa-9ddd-bba4b5ff8919)
-
-
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0%2B-orange)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-Latest-green)
