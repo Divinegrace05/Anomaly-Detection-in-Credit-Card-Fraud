@@ -1,14 +1,13 @@
 # Anomaly Detection in Credit Card Fraud
-![download](https://github.com/user-attachments/assets/7802d19a-6a44-4cbe-ace8-49b35e63bd13)
-![images](https://github.com/user-attachments/assets/fc15ffce-eab3-4a0d-bb31-10f292c8e179)
-
-
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0%2B-orange)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-Latest-green)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
 An advanced anomaly detection system for identifying fraudulent credit card transactions using machine learning techniques. This project implements both Isolation Forest and Autoencoder approaches to detect unusual patterns in credit card transactions.
+
+![download](https://github.com/user-attachments/assets/7802d19a-6a44-4cbe-ace8-49b35e63bd13)
+![images](https://github.com/user-attachments/assets/fc15ffce-eab3-4a0d-bb31-10f292c8e179)
 
 ## 🎯 Project Overview
 
